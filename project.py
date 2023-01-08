@@ -1,3 +1,15 @@
+'''
+This project is made by the following students:
+1) Rameez khan
+2) Sugam Agarwal
+3) Aditya Jain
+
+Class: XI C 
+Session - 2022-23
+
+'''
+
+
 import random
 
 def winner (c ,p):  #Rules of the game

@@ -1,8 +1,7 @@
 '''
 This project is made by the following students:
 1) Rameez khan
-2) Sugam Agarwal
-3) Aditya Jain
+2) Aditya Jain
 
 Class: XI C 
 Session - 2022-23
